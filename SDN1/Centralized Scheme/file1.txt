@@ -1,0 +1,16 @@
+Waf: Entering directory `/home/rupayan/ns3/ns-allinone-3.26/ns-3.26/build'
+[ 943/2483] Compiling scratch/P5ExpRev.cc
+[2469/2483] Linking build/scratch/P5ExpRev
+Waf: Leaving directory `/home/rupayan/ns3/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.467s)
+44.8011
+43.0912
+40.9812
+41.5946
+41.6665
+40.823
+43.0527
+44.7552
+41.967
+41.3743

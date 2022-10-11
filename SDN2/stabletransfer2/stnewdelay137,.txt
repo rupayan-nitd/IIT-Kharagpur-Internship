@@ -1,0 +1,14 @@
+Waf: Entering directory `/home/rupayan/ns3/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/home/rupayan/ns3/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.698s)
+22.3822
+20.7327
+22.6909
+22.7682
+23.3
+22.8817
+21.8351
+21.6898
+22.8819
+21.925

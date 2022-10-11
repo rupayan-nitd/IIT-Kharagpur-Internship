@@ -1,0 +1,133 @@
+Running multi-armed bandits with N_bandits = 66 and agent epsilon = 0.1
+[Experiment 100/2000]
+  N_episodes = 10000
+  bandit choice history = [46 46 46 ..., 39 15 39]
+  reward history = [ 0.00020239  0.00020239  0.00020239 ...,  0.025       0.00020198  0.025     ]
+  average reward = 0.02239774066490259
+
+[Experiment 200/2000]
+  N_episodes = 10000
+  bandit choice history = [57 57 57 ..., 39 39 44]
+  reward history = [ 0.0013986   0.0013986   0.0013986  ...,  0.025       0.025       0.00010249]
+  average reward = 0.020796352119281308
+
+[Experiment 300/2000]
+  N_episodes = 10000
+  bandit choice history = [20 20 20 ..., 39 39 39]
+  reward history = [  6.66666667e-05   6.66666667e-05   6.66666667e-05 ...,   2.50000000e-02
+   2.50000000e-02   2.50000000e-02]
+  average reward = 0.022552149589534862
+
+[Experiment 400/2000]
+  N_episodes = 10000
+  bandit choice history = [37 37 37 ..., 39 39 39]
+  reward history = [  5.09683996e-05   5.09683996e-05   5.09683996e-05 ...,   2.50000000e-02
+   2.50000000e-02   2.50000000e-02]
+  average reward = 0.022504222180526633
+
+[Experiment 500/2000]
+  N_episodes = 10000
+  bandit choice history = [54 54  8 ..., 57 39 39]
+  reward history = [  4.16927246e-05   4.16927246e-05   8.40336134e-03 ...,   1.39860140e-03
+   2.50000000e-02   2.50000000e-02]
+  average reward = 0.022299150755388616
+
+[Experiment 600/2000]
+  N_episodes = 10000
+  bandit choice history = [47 47 47 ..., 39 39 39]
+  reward history = [ 0.0015015  0.0015015  0.0015015 ...,  0.025      0.025      0.025    ]
+  average reward = 0.022346340347041655
+
+[Experiment 700/2000]
+  N_episodes = 10000
+  bandit choice history = [20 20 20 ..., 39 39 44]
+  reward history = [  2.85714286e-05   2.85714286e-05   2.85714286e-05 ...,   2.50000000e-02
+   2.50000000e-02   3.10289190e-05]
+  average reward = 0.022090608576009304
+
+[Experiment 800/2000]
+  N_episodes = 10000
+  bandit choice history = [53 53 53 ..., 39 39 39]
+  reward history = [  2.91315874e-05   2.91315874e-05   2.91315874e-05 ...,   2.50000000e-02
+   2.50000000e-02   2.50000000e-02]
+  average reward = 0.022625032500401675
+
+[Experiment 900/2000]
+  N_episodes = 10000
+  bandit choice history = [35 35 35 ..., 39 39 52]
+  reward history = [  3.22580645e-03   3.22580645e-03   3.22580645e-03 ...,   2.50000000e-02
+   2.50000000e-02   2.28655051e-05]
+  average reward = 0.02257553741594182
+
+[Experiment 1000/2000]
+  N_episodes = 10000
+  bandit choice history = [ 3  3  3 ..., 39 39 39]
+  reward history = [ 0.00176991  0.00176991  0.00176991 ...,  0.025       0.025       0.025     ]
+  average reward = 0.021312293242263476
+
+[Experiment 1100/2000]
+  N_episodes = 10000
+  bandit choice history = [13 13 13 ..., 39 39 33]
+  reward history = [  1.94389907e-05   1.94389907e-05   1.94389907e-05 ...,   2.50000000e-02
+   2.50000000e-02   1.94367237e-05]
+  average reward = 0.022376388586206906
+
+[Experiment 1200/2000]
+  N_episodes = 10000
+  bandit choice history = [ 9  9  9 ..., 39 39 39]
+  reward history = [ 0.00221729  0.00221729  0.00221729 ...,  0.025       0.025       0.025     ]
+  average reward = 0.02215064281652483
+
+[Experiment 1300/2000]
+  N_episodes = 10000
+  bandit choice history = [55 55 55 ..., 39 39 39]
+  reward history = [  1.53850888e-05   1.53850888e-05   1.53850888e-05 ...,   2.50000000e-02
+   2.50000000e-02   2.50000000e-02]
+  average reward = 0.02112906995596508
+
+[Experiment 1400/2000]
+  N_episodes = 10000
+  bandit choice history = [12 12 12 ..., 39 39 39]
+  reward history = [  1.47880867e-05   1.47880867e-05   1.47880867e-05 ...,   2.50000000e-02
+   2.50000000e-02   2.50000000e-02]
+  average reward = 0.021443954689262027
+
+[Experiment 1500/2000]
+  N_episodes = 10000
+  bandit choice history = [65 65 65 ..., 39 39 39]
+  reward history = [ 0.00120337  0.00120337  0.00120337 ...,  0.025       0.025       0.025     ]
+  average reward = 0.02250579197332503
+
+[Experiment 1600/2000]
+  N_episodes = 10000
+  bandit choice history = [51 51 51 ..., 39 39 39]
+  reward history = [ 0.00258398  0.00258398  0.00258398 ...,  0.025       0.025       0.025     ]
+  average reward = 0.02049988490106603
+
+[Experiment 1700/2000]
+  N_episodes = 10000
+  bandit choice history = [65 65 65 ..., 39 39 39]
+  reward history = [ 0.00120337  0.00120337  0.00120337 ...,  0.025       0.025       0.025     ]
+  average reward = 0.0224169355336217
+
+[Experiment 1800/2000]
+  N_episodes = 10000
+  bandit choice history = [51 51 51 ..., 39 39 35]
+  reward history = [ 0.00258398  0.00258398  0.00258398 ...,  0.025       0.025       0.00322581]
+  average reward = 0.022289270410486776
+
+[Experiment 1900/2000]
+  N_episodes = 10000
+  bandit choice history = [ 9  9  9 ..., 39 39 39]
+  reward history = [ 0.00221729  0.00221729  0.00221729 ...,  0.025       0.025       0.025     ]
+  average reward = 0.02110217823667209
+
+[Experiment 2000/2000]
+  N_episodes = 10000
+  bandit choice history = [56 56 56 ..., 39 39 39]
+  reward history = [  1.08404609e-05   1.08404609e-05   1.08404609e-05 ...,   2.50000000e-02
+   2.50000000e-02   2.50000000e-02]
+  average reward = 0.02241926575679971
+
+reward history avg = [ 0.00221687  0.00215641  0.00230847 ...,  0.02289746  0.02267903
+  0.02273468]

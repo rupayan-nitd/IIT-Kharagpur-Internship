@@ -1,0 +1,16 @@
+Waf: Entering directory `/home/rupayan/ns3/ns-allinone-3.26/ns-3.26/build'
+[ 943/2483] Compiling scratch/FinalFinal.cc
+[2472/2483] Linking build/scratch/FinalFinal
+Waf: Leaving directory `/home/rupayan/ns3/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.457s)
+3807.54
+5564.51
+4443.18
+6565.78
+3954.27
+3277.21
+4096.56
+4247.57
+3490.69
+3122.4
